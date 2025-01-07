@@ -1,8 +1,13 @@
-## Hi! Welcome to DvaCode' github 👋
+### Hi! Welcome to DvaCode' github 👋
 
+### 🧑🏻‍💻 About me
+- DevOps 개발자 이도경입니다.
+- 컴퓨터공학 전공
+- 자동화와 클라우드 기술에 대해 관심이 많습니다.
+- 소통할 때 자신의 의사를 간단명료하게 표현하는 것을 중요하게 생각합니다.
 
-
-<div align="center">
+### Skills & Tools
+<div align="left">
   <div>
     <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftimepresent95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false" alt="Hits">
