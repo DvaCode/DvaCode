@@ -7,13 +7,10 @@
     <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftimepresent95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false" alt="Hits">
     </a>
-    <a href="https://an-thropology.tistory.com/">
-      <img src="https://img.shields.io/badge/%20%20-Blog-%233D69C8.svg?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VGlzdG9yeTwvdGl0bGU+PHBhdGggZD0iTTAgM2EzIDMgMCAxIDAgNiAwIDMgMyAwIDAgMC02IDBtOSAxOGEzIDMgMCAxIDAgNiAwIDMgMyAwIDAgMC02IDBtMC05YTMgMyAwIDEgMCA2IDAgMyAzIDAgMCAwLTYgMG0wLTlhMyAzIDAgMSAwIDYgMCAzIDMgMCAwIDAtNiAwbTkgMGEzIDMgMCAxIDAgNiAwIDMgMyAwIDAgMC02IDB6Ii8+PC9zdmc+">
-    </a>
   </div>
   <br/>
   <div>
-    <img src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=typescript&logoColor=fff">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
