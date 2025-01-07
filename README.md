@@ -11,9 +11,9 @@
   <br/>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff">
-    <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=fff">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=black">
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=black"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
