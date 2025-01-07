@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=black">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
     <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
     <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-    <img src="https://img.shields.io/badge/Kaniko-FFA600?style=for-the-badge&logo=Kainko&logoColor=white">
+    <img src="https://img.shields.io/badge/Kaniko-FFA600?style=for-the-badge&logo=Kaniko&logoColor=black">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=Vault&logoColor=black">
