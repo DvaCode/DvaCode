@@ -31,12 +31,12 @@
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
     <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
     <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-    <img src="https://img.shields.io/badge/Kaniko-#FFA600?style=for-the-badge&logo=Kainko&logoColor=white">
+    <img src="https://img.shields.io/badge/Kaniko-FFA600?style=for-the-badge&logo=Kainko&logoColor=white">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Vault-#FFEC6E?style=for-the-badge&logo=Vault&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-#4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-#FF4438?style=for-the-badge&logo=Redis&logoColor=white">
+    <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=Vault&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </div>
   <br/>
