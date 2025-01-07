@@ -10,7 +10,7 @@
   </div>
   <br/>
   <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
     <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=black">
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=black"/>
     <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=black"/>
